@@ -102,7 +102,7 @@ class MagicConstant{
 
 $obj = new MagicConstant('Rakesh' , '8250337469');
 // echo $obj->username.PHP_EOL;
-// var_dump($obj);
+var_dump($obj);
 // $obj->username = ["Biswa",'Nath'];
 // $obj->setPhoneNumber(7602232294);
 // echo "Updated Number is :: " , $obj->getNumber().PHP_EOL;
